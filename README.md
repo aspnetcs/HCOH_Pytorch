@@ -1,4 +1,9 @@
 # Supervised Online Hashing via Hadamard Codebook Learning
+# Paper
+https://www.researchgate.net/profile/Hong_Liu90/publication/328374767_Supervised_Online_Hashing_via_Hadamard_Codebook_Learning/links/5bf2b099a6fdcc3a8de1407c/Supervised-Online-Hashing-via-Hadamard-Codebook-Learning.pdf
+
+# Reference
+Lin M , Ji R , Liu H , et al. Supervised Online Hashing via Hadamard Codebook Learning[J]. 2019.
 
 论文[Supervised Online Hashing via Hadamard Codebook Learning](https://dl.acm.org/citation.cfm?id=3240519)
 
